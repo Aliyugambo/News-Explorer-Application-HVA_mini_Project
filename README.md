@@ -34,12 +34,7 @@ users to find news articles based on specific keywords.
 
 ---
 ## Base URL
-- somehostsite.com
-
-```
----
-
-...
+- [- News Explorer Application](https://news-explorer-application-hva-mini-project.vercel.app/)
 
 ## Creator
 - Aliyu Gambo Aliyu
