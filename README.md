@@ -1,4 +1,5 @@
 # HVA Mini Hackathon - News Explorer Application
+
 This is a web application that uses the NewsAPI to fetch and display news articles.The
 application will have a default home page showcasing top headlines and a search feature for
 users to find news articles based on specific keywords.
